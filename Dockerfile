@@ -18,6 +18,9 @@ RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local
 RUN composer install --no-dev --optimize-autoloader
 
 RUN chmod -R 775 storage bootstrap/cache
+RUN mkdir -p database && touch database/database.sqlite
+RUN chmod -R 775 database
+RUN php artisan migrate --force || true
 RUN php artisan config:clear
 RUN php artisan route:clear
 RUN php artisan view:clear
