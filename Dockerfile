@@ -1,7 +1,9 @@
 FROM richarvey/nginx-php-fpm:3.1.6
 COPY . /var/www/html
-WORKDIR /var/www/html
-RUN composer install --no-dev
-RUN php artisan key:generate --force
-RUN chmod -R 777 storage bootstrap/cache
+ENV SKIP_COMPOSER 0
+ENV WEBROOT /var/www/html/public
+ENV PHP_ERRORS_STDERR 1
+ENV APP_ENV production
+ENV APP_DEBUG false
+ENV COMPOSER_ALLOW_SUPERUSER 1
 CMD ["/start.sh"]
