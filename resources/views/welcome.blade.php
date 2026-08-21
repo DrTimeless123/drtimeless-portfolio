@@ -1,4 +1,3 @@
-@extends('layouts.app')
 @section('title', 'Dr. Timeless — Laravel Developer')
 
 @section('content')
