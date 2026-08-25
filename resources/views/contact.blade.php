@@ -17,22 +17,11 @@
     <p class="rounded-2xl bg-white border p-4">📧 hello@drtimeless.dev</p>
     
     <!-- THIS IS THE NEW WORKING FORM -->
-    <form action="https://formspree.io/f/rjvdgabb" method="POST" class="mt-8 max-w-xl mx-auto space-y-4">
-  
-  <input type="text" name="name" placeholder="Your Name" required
-    class="w-full px-5 py-4 rounded-2xl border border-zinc-200 bg-white focus:outline-none focus:ring-2 focus:ring-black focus:border-black transition">
-
-  <input type="email" name="email" placeholder="Your Email" required
-    class="w-full px-5 py-4 rounded-2xl border border-zinc-200 bg-white focus:outline-none focus:ring-2 focus:ring-black focus:border-black transition">
-
-  <textarea name="message" placeholder="Tell me about your project..." required rows="5"
-    class="w-full px-5 py-4 rounded-2xl border border-zinc-200 bg-white focus:outline-none focus:ring-2 focus:ring-black focus:border-black transition"></textarea>
-
-  <button type="submit"
-    class="w-full bg-black text-white py-4 rounded-2xl font-semibold hover:bg-zinc-800 transition flex items-center justify-center gap-2">
-    Send Message <span>🚀</span>
-  </button>
-
+    <form action="https://formspree.io/f/rjvdgabb" method="POST" class="space-y-3">
+  <input type="text" name="name" required placeholder="Your Name" class="w-full border border-zinc-200 p-3.5 rounded-xl bg-white text-sm">
+  <input type="email" name="email" required placeholder="Your Email" class="w-full border border-zinc-200 p-3.5 rounded-xl bg-white text-sm">
+  <textarea name="message" required placeholder="Tell me about your project..." class="w-full border border-zinc-200 p-3.5 rounded-xl bg-white text-sm h-28"></textarea>
+  <button type="submit" class="w-full bg-black text-white p-3.5 rounded-xl text-sm font-bold">Send Message 🚀</button>
 </form>
   </div>
 </section>
