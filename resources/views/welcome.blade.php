@@ -23,5 +23,28 @@
     <div style="background:white;border:1px solid #ddd;border-radius:16px;padding:20px;width:120px"><div style="font-size:24px;font-weight:bold">100%</div><div style="font-size:11px;color:#888">Responsive</div></div>
   </div>
 </div>
+<!-- MY PROJECTS SECTION - START -->
+<div style="padding:40px 20px; max-width:1000px; margin:0 auto; margin-top:30px;">
+  <h2 style="font-size:28px; font-weight:bold; margin-bottom:20px; text-align:center;">My Latest Project 🚀</h2>
+  
+  <div style="border:1px solid #ddd; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 10px rgba(0,0,0,0.05);">
+    <h3 style="font-size:22px; font-weight:bold; margin-bottom:10px;">✂️ ACER CUTS - Barber Booking System</h3>
+    <p style="color:#555; margin-bottom:12px; line-height:1.6;">
+      Full-stack barber appointment system I built with Laravel. Customers can book haircuts online, all bookings save to MySQL database with admin dashboard to manage appointments and success confirmation page.
+    </p>
+    <p style="font-size:13px; color:#888; margin-bottom:15px;">
+      <strong style="color:#000;">Technologies:</strong> Laravel, PHP, MySQL, Tailwind CSS, Git & GitHub
+    </p>
+    <div style="display:flex; gap:10px; flex-wrap:wrap;">
+      <a href="https://github.com/DrTimeless123/acer-cuts-booking" target="_blank" style="background:#000; color:#fff; padding:10px 18px; border-radius:8px; text-decoration:none; font-weight:bold;">
+        GitHub Code
+      </a>
+      <a href="https://github.com/DrTimeless123/acer-cuts-booking" target="_blank" style="border:1.5px solid #000; color:#000; padding:10px 18px; border-radius:8px; text-decoration:none; font-weight:bold; background:#fff;">
+        View Project
+      </a>
+    </div>
+  </div>
+</div>
+<!-- MY PROJECTS SECTION - END -->
 </body>
 </html>
