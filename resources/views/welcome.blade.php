@@ -45,6 +45,19 @@
     </div>
   </div>
 </div>
+<div style="border:1px solid #ddd; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 10px rgba(0,0,0,0.05); margin-top:25px;">
+  <h3 style="font-size:22px; font-weight:bold; margin-bottom:10px;">🛒 DrTimeless Store - E-commerce Platform</h3>
+  <p style="color:#555; margin-bottom:12px; line-height:1.6;">
+    Next-Gen Gadgets e-commerce store I built with Laravel. Premium phones, laptops & accessories, cart, checkout & admin panel. Trusted by 10k+ customers, live for the world.
+  </p>
+  <p style="font-size:13px; color:#888; margin-bottom:15px;">
+    <strong style="color:#000;">Technologies:</strong> Laravel, PHP, SQLite, Tailwind CSS, Docker, Render
+  </p>
+  <div style="display:flex; gap:10px; flex-wrap:wrap;">
+    <a href="https://github.com/DrTimeless23/drtimeless-store" target="_blank" style="background:#000; color:#fff; padding:8px 16px; border-radius:6px; text-decoration:none;">GitHub Code</a>
+    <a href="https://drtimeless-store.onrender.com" target="_blank" style="border:1.5px solid #000; color:#000; padding:8px 16px; border-radius:6px; text-decoration:none;">View Live Store</a>
+  </div>
+</div>
 <!-- MY PROJECTS SECTION - END -->
 </body>
 </html>
