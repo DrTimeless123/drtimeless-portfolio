@@ -39,8 +39,8 @@
       <a href="https://github.com/DrTimeless123/acer-cuts-booking" target="_blank" style="background:#000; color:#fff; padding:10px 18px; border-radius:8px; text-decoration:none; font-weight:bold;">
         GitHub Code
       </a>
-      <a href="https://github.com/DrTimeless123/acer-cuts-booking" target="_blank" style="border:1.5px solid #000; color:#000; padding:10px 18px; border-radius:8px; text-decoration:none; font-weight:bold; background:#fff;">
-        View Project
+      <a href="https://acer-cuts.onrender.com" target="_blank" style="border:1.5px solid #000; color:#000; padding:10px 18px; border-radius:8px; text-decoration:none; font-weight:bold; background:#fff;">
+        View Live
       </a>
     </div>
   </div>
