@@ -10,13 +10,25 @@
   <div class="flex gap-2 items-center"><div class="w-9 h-9 rounded-xl bg-[#7c3aed] text-white flex items-center justify-center font-bold">DT</div><b>Dr. Timeless</b></div>
   <div class="flex gap-6 text-sm"><a href="/" style="color:#7c3aed;font-weight:bold">Home</a><a href="/about">About</a><a href="/contact">Contact</a></div>
 </nav>
-<div style="padding:80px 20px">
-  <div style="display:inline-block;background:#ede9fe;color:#6d28d9;padding:6px 12px;border-radius:20px;font-size:11px;font-weight:bold">LIVE PORTFOLIO 2025</div>
-  <h1 style="font-size:60px;font-weight:800;line-height:0.9;margin-top:20px">I build <br><span style="color:#7c3aed">timeless</span> products.</h1>
-  <p style="color:#666;max-width:500px;margin:20px auto">Laravel Specialist from Ilorin. Fast, secure & premium websites.</p>
-  <div style="margin-top:30px">
-    <a href="/contact" style="background:#7c3aed;color:white;padding:12px 30px;border-radius:30px;text-decoration:none;font-weight:bold">Hire Me →</a>
-  </div>
+<div style="text-align:center; padding:40px 20px;">
+    <h1 style="font-size:36px; font-weight:bold; margin-bottom:10px;">I build timeless products.</h1>
+    <p style="font-size:18px; color:#555; font-weight:bold;">Laravel Specialist from Ilorin. Fast, secure & premium websites.</p>
+    
+    <!-- NEW ABOUT ME -->
+    <p style="max-width:600px; margin:15px auto; color:#666; font-size:15px; line-height:1.6;">
+        I help fashion brands & barbershops in Ilorin & worldwide launch premium websites that convert visitors to sales. Let's build yours next! 🚀
+    </p>
+
+    <!-- NEW WHATSAPP BUTTON -->
+    <div style="margin-top:20px;">
+        <a href="https://wa.me/2347026073609" target="_blank" style="display:inline-block; background:#25D366; color:#fff; padding:12px 28px; border-radius:50px; text-decoration:none; font-weight:bold; font-size:15px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+            💬 Chat me on WhatsApp
+        </a>
+        <a href="mailto:timelessbheem@example.com" style="display:inline-block; background:#111; color:#fff; padding:12px 28px; border-radius:50px; text-decoration:none; font-weight:bold; font-size:15px; margin-left:10px;">
+            ✉️ Hire Me
+        </a>
+    </div>
+</div>
   <div style="margin-top:60px;display:flex;gap:15px;justify-content:center">
     <div style="background:white;border:1px solid #ddd;border-radius:16px;padding:20px;width:120px"><div style="font-size:24px;font-weight:bold">50+</div><div style="font-size:11px;color:#888">Projects</div></div>
     <div style="background:white;border:1px solid #ddd;border-radius:16px;padding:20px;width:120px"><div style="font-size:24px;font-weight:bold">5+</div><div style="font-size:11px;color:#888">Years</div></div>
