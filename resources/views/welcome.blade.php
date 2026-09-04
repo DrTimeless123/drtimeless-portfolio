@@ -24,7 +24,7 @@
   </div>
 </div>
 <!-- MY PROJECTS SECTION - START -->
-<div style="padding:40px 20px; max-width:1100px; margin:0 auto; margin-top:30px;">
+    <div style="padding:40px 20px; max-width:1100px; margin:0 auto; margin-top:30px;">
   <h2 style="font-size:32px; font-weight:bold; text-align:center; margin-bottom:30px;">My Projects 🚀 (3 Done!)</h2>
   
   <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap:20px;">
@@ -34,7 +34,10 @@
       <h3 style="font-size:18px; font-weight:bold;">✂️ ACER CUTS</h3>
       <p style="color:#555; font-size:14px; margin:10px 0;">Barber booking system with admin dashboard, MySQL bookings.</p>
       <p style="font-size:12px; color:#888;"><strong>Tech:</strong> Laravel, MySQL, Tailwind</p>
-      <a href="https://github.com/DrTimeless123/acer-cuts-booking" target="_blank" style="display:inline-block; margin-top:10px; background:#000; color:#fff; padding:8px 14px; border-radius:6px; text-decoration:none;">GitHub</a>
+      <div style="margin-top:12px;">
+        <a href="https://acer-cuts.onrender.com" target="_blank" style="display:inline-block; background:#22c55e; color:#fff; padding:8px 14px; border-radius:6px; text-decoration:none; margin-right:8px;">View Live</a>
+        <a href="https://github.com/DrTimeless123/acer-cuts-booking" target="_blank" style="display:inline-block; background:#000; color:#fff; padding:8px 14px; border-radius:6px; text-decoration:none;">GitHub</a>
+      </div>
     </div>
 
     <!-- PROJECT 2 - DrTimeless Store -->
@@ -42,15 +45,21 @@
       <h3 style="font-size:18px; font-weight:bold;">🛒 DrTimeless Store</h3>
       <p style="color:#555; font-size:14px; margin:10px 0;">Gadgets E-commerce - Phones, AirPods, Laptops with cart.</p>
       <p style="font-size:12px; color:#888;"><strong>Tech:</strong> Laravel, E-commerce, Tailwind</p>
-      <a href="https://github.com/DrTimeless123/drtimeless-store" target="_blank" style="display:inline-block; margin-top:10px; background:#000; color:#fff; padding:8px 14px; border-radius:6px; text-decoration:none;">GitHub</a>
+      <div style="margin-top:12px;">
+        <a href="https://drtimeless-store.onrender.com" target="_blank" style="display:inline-block; background:#22c55e; color:#fff; padding:8px 14px; border-radius:6px; text-decoration:none; margin-right:8px;">View Live</a>
+        <a href="https://github.com/DrTimeless123/drtimeless-store" target="_blank" style="display:inline-block; background:#000; color:#fff; padding:8px 14px; border-radius:6px; text-decoration:none;">GitHub</a>
+      </div>
     </div>
 
-    <!-- PROJECT 3 - Timeless Fashion -->
+    <!-- PROJECT 3 - Timeless Fashion (No Live yet) -->
     <div style="border:1px solid #ddd; border-radius:12px; padding:20px; background:#fff; box-shadow:0 4px 10px rgba(0,0,0,0.05);">
       <h3 style="font-size:18px; font-weight:bold;">👗 Timeless Fashion</h3>
       <p style="color:#555; font-size:14px; margin:10px 0;">Fashion landing - Premium style, 2026 collection, responsive.</p>
       <p style="font-size:12px; color:#888;"><strong>Tech:</strong> Laravel, Tailwind, Modern UI</p>
-      <a href="https://github.com/DrTimeless123/timeless-fashion" target="_blank" style="display:inline-block; margin-top:10px; background:#000; color:#fff; padding:8px 14px; border-radius:6px; text-decoration:none;">GitHub</a>
+      <div style="margin-top:12px;">
+        <a href="https://github.com/DrTimeless123/timeless-fashion" target="_blank" style="display:inline-block; background:#000; color:#fff; padding:8px 14px; border-radius:6px; text-decoration:none;">GitHub</a>
+        <span style="font-size:11px; color:#888; margin-left:8px;">(Not hosted yet)</span>
+      </div>
     </div>
 
   </div>
