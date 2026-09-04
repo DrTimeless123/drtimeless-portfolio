@@ -24,39 +24,36 @@
   </div>
 </div>
 <!-- MY PROJECTS SECTION - START -->
-<div style="padding:40px 20px; max-width:1000px; margin:0 auto; margin-top:30px;">
-  <h2 style="font-size:28px; font-weight:bold; margin-bottom:20px; text-align:center;">My Latest Project 🚀</h2>
+<div style="padding:40px 20px; max-width:1100px; margin:0 auto; margin-top:30px;">
+  <h2 style="font-size:32px; font-weight:bold; text-align:center; margin-bottom:30px;">My Projects 🚀 (3 Done!)</h2>
   
-  <div style="border:1px solid #ddd; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 10px rgba(0,0,0,0.05);">
-    <h3 style="font-size:22px; font-weight:bold; margin-bottom:10px;">✂️ ACER CUTS - Barber Booking System</h3>
-    <p style="color:#555; margin-bottom:12px; line-height:1.6;">
-      Full-stack barber appointment system I built with Laravel. Customers can book haircuts online, all bookings save to MySQL database with admin dashboard to manage appointments and success confirmation page.
-    </p>
-    <p style="font-size:13px; color:#888; margin-bottom:15px;">
-      <strong style="color:#000;">Technologies:</strong> Laravel, PHP, MySQL, Tailwind CSS, Git & GitHub
-    </p>
-    <div style="display:flex; gap:10px; flex-wrap:wrap;">
-      <a href="https://github.com/DrTimeless123/acer-cuts-booking" target="_blank" style="background:#000; color:#fff; padding:10px 18px; border-radius:8px; text-decoration:none; font-weight:bold;">
-        GitHub Code
-      </a>
-      <a href="https://acer-cuts.onrender.com" target="_blank" style="border:1.5px solid #000; color:#000; padding:10px 18px; border-radius:8px; text-decoration:none; font-weight:bold; background:#fff;">
-        View Live
-      </a>
+  <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap:20px;">
+
+    <!-- PROJECT 1 - ACER CUTS -->
+    <div style="border:1px solid #ddd; border-radius:12px; padding:20px; background:#fff; box-shadow:0 4px 10px rgba(0,0,0,0.05);">
+      <h3 style="font-size:18px; font-weight:bold;">✂️ ACER CUTS</h3>
+      <p style="color:#555; font-size:14px; margin:10px 0;">Barber booking system with admin dashboard, MySQL bookings.</p>
+      <p style="font-size:12px; color:#888;"><strong>Tech:</strong> Laravel, MySQL, Tailwind</p>
+      <a href="https://github.com/DrTimeless123/acer-cuts-booking" target="_blank" style="display:inline-block; margin-top:10px; background:#000; color:#fff; padding:8px 14px; border-radius:6px; text-decoration:none;">GitHub</a>
     </div>
+
+    <!-- PROJECT 2 - DrTimeless Store -->
+    <div style="border:1px solid #ddd; border-radius:12px; padding:20px; background:#fff; box-shadow:0 4px 10px rgba(0,0,0,0.05);">
+      <h3 style="font-size:18px; font-weight:bold;">🛒 DrTimeless Store</h3>
+      <p style="color:#555; font-size:14px; margin:10px 0;">Gadgets E-commerce - Phones, AirPods, Laptops with cart.</p>
+      <p style="font-size:12px; color:#888;"><strong>Tech:</strong> Laravel, E-commerce, Tailwind</p>
+      <a href="https://github.com/DrTimeless123/drtimeless-store" target="_blank" style="display:inline-block; margin-top:10px; background:#000; color:#fff; padding:8px 14px; border-radius:6px; text-decoration:none;">GitHub</a>
+    </div>
+
+    <!-- PROJECT 3 - Timeless Fashion -->
+    <div style="border:1px solid #ddd; border-radius:12px; padding:20px; background:#fff; box-shadow:0 4px 10px rgba(0,0,0,0.05);">
+      <h3 style="font-size:18px; font-weight:bold;">👗 Timeless Fashion</h3>
+      <p style="color:#555; font-size:14px; margin:10px 0;">Fashion landing - Premium style, 2026 collection, responsive.</p>
+      <p style="font-size:12px; color:#888;"><strong>Tech:</strong> Laravel, Tailwind, Modern UI</p>
+      <a href="https://github.com/DrTimeless123/timeless-fashion" target="_blank" style="display:inline-block; margin-top:10px; background:#000; color:#fff; padding:8px 14px; border-radius:6px; text-decoration:none;">GitHub</a>
+    </div>
+
   </div>
-  <div style="border:1px solid #ddd; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 10px rgba(0,0,0,0.05); margin-top:25px;">
-  <h3 style="font-size:22px; font-weight:bold; margin-bottom:10px;">🛒 DrTimeless Store - E-commerce Platform</h3>
-  <p style="color:#555; margin-bottom:12px; line-height:1.6;">
-    Next-Gen Gadgets e-commerce store I built with Laravel. Premium phones, laptops & accessories, cart, checkout & admin panel. Trusted by 10k+ customers, live for the world.
-  </p>
-  <p style="font-size:13px; color:#888; margin-bottom:15px;">
-    <strong style="color:#000;">Technologies:</strong> Laravel, PHP, SQLite, Tailwind CSS, Docker, Render
-  </p>
-  <div style="display:flex; gap:10px; flex-wrap:wrap;">
-    <a href="https://github.com/DrTimeless23/drtimeless-store" target="_blank" style="background:#000; color:#fff; padding:8px 16px; border-radius:6px; text-decoration:none;">GitHub Code</a>
-    <a href="https://drtimeless-store.onrender.com" target="_blank" style="border:1.5px solid #000; color:#000; padding:8px 16px; border-radius:6px; text-decoration:none;">View Live Store</a>
-  </div>
-</div>
 </div>
 <!-- MY PROJECTS SECTION - END -->
 </body>
