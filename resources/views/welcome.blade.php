@@ -24,7 +24,7 @@
         <a href="https://wa.me/2347026073609" target="_blank" style="display:inline-block; background:#25D366; color:#fff; padding:12px 28px; border-radius:50px; text-decoration:none; font-weight:bold; font-size:15px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
             💬 Chat me on WhatsApp
         </a>
-        <a href="#contact" style="display:inline-block; background:#111; color:#fff; padding:12px 28px; border-radius:50px; text-decoration:none; font-weight:bold; font-size:15px; margin-left:10px;">
+        <a href="contact" style="display:inline-block; background:#111; color:#fff; padding:12px 28px; border-radius:50px; text-decoration:none; font-weight:bold; font-size:15px; margin-left:10px;">
             ✉️ Hire Me
         </a>
     </div>
@@ -72,5 +72,6 @@
     </div>
 </div>
     <!-- MY PROJECTS SECTION - END -->
+     @include('layouts.contact')
 </body>
 </html>
