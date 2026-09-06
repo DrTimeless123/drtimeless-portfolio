@@ -22,7 +22,7 @@
 <!-- HERO - ONLY HIRE ME (FIRST CODE - NO WHATSAPP) -->
 <div style="text-align:center; padding:60px 20px 40px 20px;">
     <h1 style="font-size:38px; font-weight:bold; margin-bottom:12px;">I build timeless products.</h1>
-    <p style="font-size:18px; color:#555; font-weight:bold;">I help businesses, brands & startups in Ilorin & worldwide launch fast, secure and premium websites - from e-commerce stores to company portfolios that convert visitors to paying customers. Let's build yours next! 🚀.</p>
+    <p style="font-size:18px; color:#555; font-weight:bold;">I help businesses, brands & startups in Ilorin & worldwide launch fast, secure and premium websites <br> - from e-commerce stores to company portfolios that convert visitors to paying customers. <br> Let's build yours next! 🚀.</p>
     
     <div style="margin-top:25px;">
         <a href="/contact" style="display:inline-block; background:#111; color:#fff; padding:12px 28px; border-radius:50px; text-decoration:none; font-weight:bold; font-size:15px;">
