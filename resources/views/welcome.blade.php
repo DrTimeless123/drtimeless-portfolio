@@ -73,5 +73,6 @@
 </div>
     <!-- MY PROJECTS SECTION - END -->
      @include('layouts.contact')
+     
 </body>
 </html>
