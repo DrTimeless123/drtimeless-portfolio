@@ -14,22 +14,22 @@
     <h1 style="font-size:36px; font-weight:bold; margin-bottom:10px;">I build timeless products.</h1>
     <p style="font-size:18px; color:#555; font-weight:bold;">Laravel Specialist from Ilorin. Fast, secure & premium websites.</p>
     
-    <!-- NEW ABOUT ME -->
-    <p style="max-width:600px; margin:15px auto; color:#666; font-size:15px; line-height:1.6;">
-        I help fashion brands & barbershops in Ilorin & worldwide launch premium websites that convert visitors to sales. Let's build yours next! 🚀
+    <!-- GENERAL ABOUT ME - FOR ALL BUSINESSES -->
+    <p style="max-width:650px; margin:15px auto; color:#666; font-size:15px; line-height:1.6;">
+        I help businesses, brands & startups in Ilorin & worldwide launch fast, secure and premium websites - from e-commerce stores to company portfolios that convert visitors to paying customers. Let's build yours next! 🚀
     </p>
 
-    <!-- NEW WHATSAPP BUTTON -->
-    <div style="margin-top:20px;">
+    <!-- BUTTONS - WHATSAPP + NEW HIRE ME TO CONTACT FORM -->
+    <div style="margin-top:25px;">
         <a href="https://wa.me/2347026073609" target="_blank" style="display:inline-block; background:#25D366; color:#fff; padding:12px 28px; border-radius:50px; text-decoration:none; font-weight:bold; font-size:15px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
             💬 Chat me on WhatsApp
         </a>
-        <a href="mailto:timelessbheem@example.com" style="display:inline-block; background:#111; color:#fff; padding:12px 28px; border-radius:50px; text-decoration:none; font-weight:bold; font-size:15px; margin-left:10px;">
+        <a href="#contact" style="display:inline-block; background:#111; color:#fff; padding:12px 28px; border-radius:50px; text-decoration:none; font-weight:bold; font-size:15px; margin-left:10px;">
             ✉️ Hire Me
         </a>
     </div>
 </div>
-  <div style="margin-top:60px;display:flex;gap:15px;justify-content:center">
+    <div style="margin-top:60px;display:flex;gap:15px;justify-content:center">
     <div style="background:white;border:1px solid #ddd;border-radius:16px;padding:20px;width:120px"><div style="font-size:24px;font-weight:bold">50+</div><div style="font-size:11px;color:#888">Projects</div></div>
     <div style="background:white;border:1px solid #ddd;border-radius:16px;padding:20px;width:120px"><div style="font-size:24px;font-weight:bold">5+</div><div style="font-size:11px;color:#888">Years</div></div>
     <div style="background:white;border:1px solid #ddd;border-radius:16px;padding:20px;width:120px"><div style="font-size:24px;font-weight:bold">100%</div><div style="font-size:11px;color:#888">Responsive</div></div>
