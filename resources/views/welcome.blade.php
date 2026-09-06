@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Dr. Timeless - Portfolio</title>
+    <link rel="icon" type="image/png" href="/favicon.png">
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-[#fcfbf9]">
@@ -32,31 +33,36 @@
 </div>
 
 <!-- MY PROJECTS - 3 PROJECTS -->
-<div style="max-width:1100px; margin:0 auto; padding:20px 20px 60px 20px;">
-    <h2 style="font-size:26px; font-weight:bold; text-align:center; margin-bottom:25px;">My Projects 🚀 (3 Done!)</h2>
-    
-    <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap:20px;">
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap:20px;">
 
         <div style="border:1px solid #e5e5e5; border-radius:16px; padding:22px; background:#fff;">
             <h3 style="font-weight:bold;">🛒 DrTimeless Store</h3>
             <p style="color:#666; font-size:14px; margin:10px 0;">E-commerce fashion store with cart and checkout.</p>
-            <a href="https://github.com/DrTimeless1/DrTimeless-Store" target="_blank" style="background:#000; color:#fff; padding:8px 14px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:bold;">GitHub</a>
+            <div style="display:flex; gap:8px; margin-top:12px;">
+                <a href="https://github.com/DrTimeless1/DrTimeless-Store" target="_blank" style="background:#000; color:#fff; padding:8px 14px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:bold;">GitHub</a>
+                <a href="https://drtimeless-store.onrender.com" target="_blank" style="border:1px solid #000; color:#000; padding:8px 14px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:bold;">View Live</a>
+            </div>
         </div>
 
         <div style="border:1px solid #e5e5e5; border-radius:16px; padding:22px; background:#fff;">
             <h3 style="font-weight:bold;">💈 Acer Cuts</h3>
             <p style="color:#666; font-size:14px; margin:10px 0;">Barber booking system with admin dashboard.</p>
-            <a href="https://github.com/DrTimeless1/acer-cuts-booking" target="_blank" style="background:#000; color:#fff; padding:8px 14px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:bold;">GitHub</a>
+            <div style="display:flex; gap:8px; margin-top:12px;">
+                <a href="https://github.com/DrTimeless1/acer-cuts-booking" target="_blank" style="background:#000; color:#fff; padding:8px 14px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:bold;">GitHub</a>
+                <a href="https://acer-cuts.onrender.com" target="_blank" style="border:1px solid #000; color:#000; padding:8px 14px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:bold;">View Live</a>
+            </div>
         </div>
 
         <div style="border:1px solid #e5e5e5; border-radius:16px; padding:22px; background:#fff;">
             <h3 style="font-weight:bold;">👗 Timeless Fashion</h3>
             <p style="color:#666; font-size:14px; margin:10px 0;">Fashion landing page that converts visitors to sales.</p>
-            <a href="https://github.com/DrTimeless1" target="_blank" style="background:#000; color:#fff; padding:8px 14px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:bold;">GitHub</a>
+            <div style="display:flex; gap:8px; margin-top:12px;">
+                <a href="https://github.com/DrTimeless1" target="_blank" style="background:#000; color:#fff; padding:8px 14px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:bold;">GitHub</a>
+                <a href="https://drtimeless-portfolio.onrender.com" target="_blank" style="border:1px solid #000; color:#000; padding:8px 14px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:bold;">View Live</a>
+            </div>
         </div>
 
     </div>
-</div>
 
 </body>
 </html>
