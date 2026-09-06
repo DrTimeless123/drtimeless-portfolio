@@ -9,7 +9,7 @@
 <body class="bg-[#fcfbf9]">
 
 <!-- Replace ONLY this section -->
-<section class="max-w-7xl mx-auto px-8 py-16">
+<section id="contact" class="max-w-7xl mx-auto px-8 py-16">
   <h1 class="text-5xl font-bold">Let's build 👑</h1>
   <p class="mt-4 text-zinc-600">I take 2 projects per month to keep quality</p>
   
