@@ -58,7 +58,7 @@
             <p style="color:#666; font-size:14px; margin:10px 0;">Fashion landing page that converts visitors to sales.</p>
             <div style="display:flex; gap:8px; margin-top:12px;">
                 <a href="https://github.com/DrTimeless1" target="_blank" style="background:#000; color:#fff; padding:8px 14px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:bold;">GitHub</a>
-                <a href="https://drtimeless-portfolio.onrender.com" target="_blank" style="border:1px solid #000; color:#000; padding:8px 14px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:bold;">View Live</a>
+                <a href="https://drtimeless-fashion.onrender.com" target="_blank" style="border:1px solid #000; color:#000; padding:8px 14px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:bold;">View Live</a>
             </div>
         </div>
 
